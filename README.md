@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @codeghis
-- 👀 I’m interested in SAP ABAP/ SAP BTP / UI5 Development , Node JS, Go and Rust,
--  Retro programming (assembly Z80, old computers and consoles )
--  Emulator devlopment
+- 👋 Hi, I’m @codeGhis
+- 👀 I’m interested in SAP ABAP / SAP BTP / UI5 Development , Rust
+- Retro programming (assembly Z80, old computers and consoles ), Quickbasic, Turbo C, Turbo Pascal
+- Emulator development
+- Demo effects, Fractals ....
 - 🌱 I’m currently learning Rust
 
 
