@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @codeGhis
-- 👀 I’m interested in SAP ABAP / SAP BTP / UI5 Development , Rust
-- Retro programming (assembly Z80, old computers and consoles ), Quickbasic, Turbo C, Turbo Pascal
+- 👀 I’m interested in SAP ABAP / SAP BTP / UI5 Development
+- Mobile App dev ( Flutter/Flame )
+- Retro programming (assembly Z80, old computers and consoles ), Quickbasic, Turbo C, Turbo Pascal, asm x86
 - Emulator development
 - Demo effects, Fractals ....
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Flutter / Flame
 
 
 <!---
